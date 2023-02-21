@@ -122,9 +122,7 @@ export default class App extends Component {
                   <Text style={[styles.buttonTextSignup, {color: '#6D6E70'}]}>Don't have account? Click here</Text>
                 </TouchableHighlight>
 
-                <View style={styles.viewTextRights}>
-                  <Text style={styles.textRights}>© 2018 All Rights Reserved | Tek Hub</Text>
-                </View>
+               
 
               </View>
             </View>
